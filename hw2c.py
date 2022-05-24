@@ -109,4 +109,16 @@ f1_score = (2*precision*recall)/(precision+recall)
 
 print(precision, recall, f1_score)
 
+user_counter = 0
+for i in user_dict:
+    user_counter += 1
+
+total_recommendedd = user_counter*10
+conversion = total_recommended/total_recommendedd
+
+print(conversion)
+
+
+#print(len(df))
+ 
 # print(json_data[0:1])
