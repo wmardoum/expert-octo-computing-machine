@@ -1,2 +1,2 @@
-# expert-octo-computing-machine
+# homework-two
 Homework 2
